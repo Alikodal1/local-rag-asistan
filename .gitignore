@@ -1,0 +1,16 @@
+# Sanal Ortam
+venv/
+env/
+
+# Python Ön Bellek Dosyaları
+__pycache__/
+*.pyc
+
+# Vektör Veritabanı (Boyutu büyük olabilir, her kullanıcı kendi oluşturmalı)
+chroma_db/
+
+# Ortam Değişkenleri (Gizli API anahtarları vs. olursa diye)
+.env
+
+# İşletim Sistemi Kalıntıları
+.DS_Store
