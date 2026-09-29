@@ -77,4 +77,7 @@ python init_db.py
 # 6. Uygulamayı (Web sunucusunu) başlatın
 python app.py
 
+## 🎥 Proje Demo Videosu
 
+Sistemin nasıl çalıştığını, akışkan (Streaming) arayüzünü ve mimarisini anlattığım 2 dakikalık sunum videoma aşağıdan ulaşabilirsiniz:
+https://youtu.be/FmE-MocaRB4
